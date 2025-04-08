@@ -5,7 +5,7 @@ I'm **Mohnish**, a Computer Science student at **Mississippi State University** 
 ### A Little Bit About Me
 
 - 🧠 **CS Enthusiast**: Love solving problems, from data structures to mind-boggling machine learning projects.
-- ⚙️ **Languages & Tools**: Primarily Python, but I also dabble in Java, C, and the occasional Jupyter Notebook when I’m feeling fancy.
+- ⚙️ **Languages & Tools**: Python, Java, C, C++, and the occasional Jupyter Notebook when I’m feeling fancy.
 - 📚 **Learning**: Deepening my understanding of ML, AI, and systems design. 
 - 📍 **Location**: Mississippi State University, Mississippi, United States.
 - 💼 **Goal**: Eager to collaborate on open-source projects and any chance to learn something new.
