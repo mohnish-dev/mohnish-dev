@@ -30,21 +30,13 @@ I'm **Mohnish**, a Computer Science student at **Mississippi State University** 
 - **[caesar_cipher](https://github.com/mohnish7-dev/caesar_cipher)**  
   Old-school encryption for the modern age. Who said classic ciphers can’t be cool?
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohnish7-dev&show_icons=true&theme=radical" alt="Mohnish's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohnish7-dev&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
-
 > “If debugging is the process of removing software bugs, then programming must be the process of putting them in.”  
 > *— Edsger Dijkstra (probably)*
 
 ### Let’s Connect
 
 - **Email**: [mohnish7@protonmail.com](mailto:mohnish7@protonmail.com)  
-- **LinkedIn**: [linkedin.com/in/mohnish-sao](#) (Add your real link!)
-- **Twitter**: [@mohnish7_dev](#) (Or your actual Twitter handle if applicable)
+- **LinkedIn**: [www.linkedin.com/in/mohnish-sao](#) (Add your real link!)
 
 Got a cool idea or see something that needs fixing? Feel free to open an issue or hit me up. I’m always down to brainstorm solutions or chat about the latest tech gossip!
 
