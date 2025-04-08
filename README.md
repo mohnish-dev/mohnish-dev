@@ -12,22 +12,22 @@ I'm **Mohnish**, a Computer Science student at **Mississippi State University** 
 
 ### Featured Projects
 
-- **[restaurant_profit](https://github.com/mohnish7-dev/restaurant_profit)**  
+- **[restaurant_profit](https://github.com/mohnish-dev/restaurant_profit)**  
   Predicting and analyzing restaurant profitability. Because who doesn't love both data science *and* tasty food?
 
-- **[handwritten_digits](https://github.com/mohnish7-dev/handwritten_digits)**  
+- **[handwritten_digits](https://github.com/mohnish-dev/handwritten_digits)**  
   A digit-recognition model showcasing the magic of machine learning. Next step: building an AI that recognizes my questionable handwriting.
 
-- **[perceptron](https://github.com/mohnish7-dev/perceptron)**  
+- **[percolation](https://github.com/mohnish-dev/percolation)**  
   Simplest form of machine learning meets my obsession with neural networks. A quick, fun experiment to get started in ML.
 
-- **[work_hour_tracker](https://github.com/mohnish7-dev/work_hour_tracker)**  
+- **[work_hour_tracker](https://github.com/mohnish-dev/work_hour_tracker)**  
   Because time is money, especially when you’re a busy student juggling a million things at once.
 
-- **[marriage_strategy](https://github.com/mohnish7-dev/marriage_strategy)**  
+- **[martingale_strategy](https://github.com/mohnish-dev/martingale_strategy)**  
   It's as intriguing as it sounds—some good ol’ algorithmic fun. (Now only if it could optimize real-life decision-making, right?)
 
-- **[caesar_cipher](https://github.com/mohnish7-dev/caesar_cipher)**  
+- **[caesar_cipher](https://github.com/mohnish-dev/caesar_cipher)**  
   Old-school encryption for the modern age. Who said classic ciphers can’t be cool?
 
 > “If debugging is the process of removing software bugs, then programming must be the process of putting them in.”  
