@@ -36,7 +36,7 @@ I'm **Mohnish**, a Computer Science student at **Mississippi State University** 
 ### Let’s Connect
 
 - **Email**: [mohnishsao10@gmail.com](mailto:mohnishsao10@gmail.com)  
-- **LinkedIn**: [www.linkedin.com/in/mohnish-sao](#) 
+- **LinkedIn**: [www.linkedin.com/in/mohnish-sao](https://www.linkedin.com/in/mohnish-sao)
 
 Got a cool idea or see something that needs fixing? Feel free to open an issue or hit me up. I’m always down to brainstorm solutions or chat about the latest tech gossip!
 
